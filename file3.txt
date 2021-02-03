@@ -1,0 +1,12 @@
+sun
+mon
+tue
+wed
+thru
+fri
+sat 
+apple 
+mango 
+pineapple
+orange
+grapes
